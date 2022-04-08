@@ -1,0 +1,21 @@
+{
+  "name": "netlify-serverless",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiateeters/netlify-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynthiateeters/netlify-serverless/issues"
+  },
+  "homepage": "https://github.com/cynthiateeters/netlify-serverless#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
